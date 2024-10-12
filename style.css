@@ -1,0 +1,67 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-image: url('https://i.pinimg.com/564x/f9/04/f8/f904f8a1fedff5f6b92d5b7da7b03575.jpg');
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+  }
+  h1 {
+    color: dodgerblue;
+  }
+  
+  nav a {
+    color: powderblue;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  main {
+    background-color: black;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: dodgerblue;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+  footer {
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  iframe {
+    border-radius: 12px;
+    width: 100%;
+    height: 200px;
+  }
+  
